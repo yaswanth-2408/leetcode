@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yaswanth-2408/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/yaswanth-2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yaswanth-2408/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/yaswanth-2408/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/yaswanth-2408/leetcode/tree/master/0724-find-pivot-index) |
 | [0932-monotonic-array](https://github.com/yaswanth-2408/leetcode/tree/master/0932-monotonic-array) |
 ## Divide and Conquer
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yaswanth-2408/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/yaswanth-2408/leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/yaswanth-2408/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
