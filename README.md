@@ -21,9 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yaswanth-2408/leetcode/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/yaswanth-2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0932-monotonic-array](https://github.com/yaswanth-2408/leetcode/tree/master/0932-monotonic-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yaswanth-2408/leetcode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/yaswanth-2408/leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/yaswanth-2408/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
