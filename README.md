@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yaswanth-2408/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/yaswanth-2408/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/yaswanth-2408/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/yaswanth-2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0932-monotonic-array](https://github.com/yaswanth-2408/leetcode/tree/master/0932-monotonic-array) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yaswanth-2408/leetcode/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/yaswanth-2408/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
