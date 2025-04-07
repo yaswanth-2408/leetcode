@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yaswanth-2408/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yaswanth-2408/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/yaswanth-2408/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/yaswanth-2408/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yaswanth-2408/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/yaswanth-2408/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/yaswanth-2408/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/yaswanth-2408/leetcode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/yaswanth-2408/leetcode/tree/master/0724-find-pivot-index) |
 | [0932-monotonic-array](https://github.com/yaswanth-2408/leetcode/tree/master/0932-monotonic-array) |
 ## Divide and Conquer
@@ -38,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yaswanth-2408/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/yaswanth-2408/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/yaswanth-2408/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/yaswanth-2408/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/yaswanth-2408/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -60,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yaswanth-2408/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/yaswanth-2408/leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/yaswanth-2408/leetcode/tree/master/0724-find-pivot-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yaswanth-2408/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
