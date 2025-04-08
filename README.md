@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/yaswanth-2408/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yaswanth-2408/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/yaswanth-2408/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yaswanth-2408/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/yaswanth-2408/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/yaswanth-2408/leetcode/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yaswanth-2408/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yaswanth-2408/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yaswanth-2408/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yaswanth-2408/leetcode/tree/master/0202-happy-number) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yaswanth-2408/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yaswanth-2408/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yaswanth-2408/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/yaswanth-2408/leetcode/tree/master/0058-length-of-last-word) |
