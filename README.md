@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yaswanth-2408/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/yaswanth-2408/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yaswanth-2408/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/yaswanth-2408/leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yaswanth-2408/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yaswanth-2408/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/yaswanth-2408/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/yaswanth-2408/leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yaswanth-2408/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yaswanth-2408/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/yaswanth-2408/leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/yaswanth-2408/leetcode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
