@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/yaswanth-2408/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/yaswanth-2408/leetcode/tree/master/0724-find-pivot-index) |
 | [0932-monotonic-array](https://github.com/yaswanth-2408/leetcode/tree/master/0932-monotonic-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yaswanth-2408/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Divide and Conquer
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yaswanth-2408/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yaswanth-2408/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yaswanth-2408/leetcode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yaswanth-2408/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yaswanth-2408/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yaswanth-2408/leetcode/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
