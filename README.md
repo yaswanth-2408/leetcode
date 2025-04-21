@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yaswanth-2408/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/yaswanth-2408/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yaswanth-2408/leetcode/tree/master/0268-missing-number) |
+| [1448-maximum-69-number](https://github.com/yaswanth-2408/leetcode/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yaswanth-2408/leetcode/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/yaswanth-2408/leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
