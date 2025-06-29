@@ -12,6 +12,6 @@ class Solution {
                 break;
             }
         }
-        return ind==0?"":str.substring(0,ind);
+        return strs.length==0?"":str.substring(0,ind);
     }
 }
