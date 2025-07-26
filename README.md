@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yaswanth-2408/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/yaswanth-2408/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yaswanth-2408/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/yaswanth-2408/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yaswanth-2408/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yaswanth-2408/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/yaswanth-2408/leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/yaswanth-2408/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/yaswanth-2408/leetcode/tree/master/0415-add-strings) |
 ## Number Theory
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yaswanth-2408/leetcode/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
