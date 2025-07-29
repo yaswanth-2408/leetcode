@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/yaswanth-2408/leetcode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/yaswanth-2408/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/yaswanth-2408/leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/yaswanth-2408/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/yaswanth-2408/leetcode/tree/master/0724-find-pivot-index) |
 | [0932-monotonic-array](https://github.com/yaswanth-2408/leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/yaswanth-2408/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/yaswanth-2408/leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/yaswanth-2408/leetcode/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yaswanth-2408/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/yaswanth-2408/leetcode/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
