@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yaswanth-2408/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/yaswanth-2408/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/yaswanth-2408/leetcode/tree/master/0724-find-pivot-index) |
+| [0841-shortest-distance-to-a-character](https://github.com/yaswanth-2408/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/yaswanth-2408/leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yaswanth-2408/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/yaswanth-2408/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/yaswanth-2408/leetcode/tree/master/0415-add-strings) |
+| [0841-shortest-distance-to-a-character](https://github.com/yaswanth-2408/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yaswanth-2408/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Trie
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yaswanth-2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/yaswanth-2408/leetcode/tree/master/0392-is-subsequence) |
+| [0841-shortest-distance-to-a-character](https://github.com/yaswanth-2408/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1019-squares-of-a-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yaswanth-2408/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
