@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yaswanth-2408/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/yaswanth-2408/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/yaswanth-2408/leetcode/tree/master/0724-find-pivot-index) |
+| [0898-transpose-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/yaswanth-2408/leetcode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yaswanth-2408/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/yaswanth-2408/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/yaswanth-2408/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/yaswanth-2408/leetcode/tree/master/0682-baseball-game) |
+| [0898-transpose-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/0898-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/0898-transpose-matrix) |
 ## Database
 |  |
 | ------- |
