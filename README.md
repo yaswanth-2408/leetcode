@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/yaswanth-2408/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/yaswanth-2408/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaswanth-2408/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yaswanth-2408/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yaswanth-2408/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yaswanth-2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Database
 |  |
 | ------- |
