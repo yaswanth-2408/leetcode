@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/yaswanth-2408/leetcode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/yaswanth-2408/leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yaswanth-2408/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1319-unique-number-of-occurrences](https://github.com/yaswanth-2408/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/yaswanth-2408/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/yaswanth-2408/leetcode/tree/master/0645-set-mismatch) |
 | [1217-relative-sort-array](https://github.com/yaswanth-2408/leetcode/tree/master/1217-relative-sort-array) |
+| [1319-unique-number-of-occurrences](https://github.com/yaswanth-2408/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
