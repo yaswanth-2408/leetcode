@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yaswanth-2408/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/yaswanth-2408/leetcode/tree/master/0415-add-strings) |
 | [0944-smallest-range-i](https://github.com/yaswanth-2408/leetcode/tree/master/0944-smallest-range-i) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaswanth-2408/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/yaswanth-2408/leetcode/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/yaswanth-2408/leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yaswanth-2408/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/yaswanth-2408/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaswanth-2408/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
