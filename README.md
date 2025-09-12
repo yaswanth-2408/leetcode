@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yaswanth-2408/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/yaswanth-2408/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/yaswanth-2408/leetcode/tree/master/0645-set-mismatch) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/yaswanth-2408/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1217-relative-sort-array](https://github.com/yaswanth-2408/leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/yaswanth-2408/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Sorting
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yaswanth-2408/leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/yaswanth-2408/leetcode/tree/master/0415-add-strings) |
 | [0841-shortest-distance-to-a-character](https://github.com/yaswanth-2408/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/yaswanth-2408/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yaswanth-2408/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Trie
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yaswanth-2408/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/yaswanth-2408/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yaswanth-2408/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/yaswanth-2408/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String Matching
 |  |
 | ------- |
