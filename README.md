@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/yaswanth-2408/leetcode/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/yaswanth-2408/leetcode/tree/master/1127-last-stone-weight) |
+| [1137-height-checker](https://github.com/yaswanth-2408/leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/yaswanth-2408/leetcode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/yaswanth-2408/leetcode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/yaswanth-2408/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/yaswanth-2408/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/yaswanth-2408/leetcode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/yaswanth-2408/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/yaswanth-2408/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/yaswanth-2408/leetcode/tree/master/1217-relative-sort-array) |
 ## String
 |  |
@@ -286,5 +288,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/yaswanth-2408/leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/yaswanth-2408/leetcode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
