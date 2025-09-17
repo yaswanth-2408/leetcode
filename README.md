@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/yaswanth-2408/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yaswanth-2408/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/yaswanth-2408/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/yaswanth-2408/leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 ## Divide and Conquer
 |  |
 | ------- |
